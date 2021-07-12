@@ -1,7 +1,7 @@
 ---
-title: "R3 Excercises"
+title: "collaborate"
 author: "Mafalda Moncada Cordeiro"
-date: "08/07/2021"
+date: "12/07/2021"
 output: html_document
 ---
 
@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ---
-title: "Welcome"
+title: "Collaborate"
 ---
 
-Hello, Website!
+Like branches of a tree.
